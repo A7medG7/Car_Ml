@@ -1,4 +1,4 @@
-scikit-learn version== 1.2.2
+scikit-learn version== 23.3.2
 Pandas version== 1.5.3
 NumPy version== 1.24.3
 Streamlit version== 1.29.0
